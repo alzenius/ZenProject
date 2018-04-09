@@ -1,6 +1,9 @@
+
+
 =======================================
 Bot Protect TCR Versi 1 admin dan 5 Bot
 =======================================
+
 
 Cara Instal :
 - pkg install python -y
@@ -13,12 +16,14 @@ Cara Instal :
 
 Cara Menjalankan Botnya :
 - cd ZenProject
-- python2 Koplaxs5Bot.py
+- python2 DRc Bot.py
 
 Thanks For :
 - Alfathdirk
 - Farzain
 - Dan Kawan²
+
+
 ================================
 ZenProject D'Rc Bot
 ================================
